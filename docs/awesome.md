@@ -102,6 +102,7 @@ description: A curated list of useful tools, libraries, gamemodes, filterscripts
 - **[rustext](https://github.com/ziggi/rustext)** - Fix Russian text plugin for SA-MP: GameText's, TextDraw's and Menu's.
 - **[Advanced SA NickName](https://github.com/KrYpToDeN/Advanced-SA-NickName)** - Support for any symbols in nicknames.
 - **[SAMPSON](https://github.com/Hual/SAMPSON)** - A JSON plugin for SA-MP.
+- **[GPS-PLUGIN](OPEN-MP GPS Plugin forked from SA-MP GPS Plugin)** SA-MP GPS Plugin port (Not complete)
 
 ## Client-Server Plugins
 
